@@ -1,3 +1,8 @@
 This is Sample of Local Git File
+<<<<<<< HEAD
 This is Sample of Central Git
 Updated line 
+=======
+This is Sample of Central Git line
+Updated line of central
+>>>>>>> db01090296c5553a89f752ebd84a92e4673b2c30
