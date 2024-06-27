@@ -5,4 +5,7 @@ Updated line
 =======
 This is Sample of Central Git line
 Updated line of central
+<<<<<<< HEAD
+>>>>>>> db01090296c5553a89f752ebd84a92e4673b2c30
+=======
 >>>>>>> db01090296c5553a89f752ebd84a92e4673b2c30
